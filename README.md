@@ -1,8 +1,9 @@
 # Sprite Walker
 
-## Development Principles
+## Development Practices
 
-* Use [native JS modules](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules)
+* [Native JS modules](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Modules).
+* [Object constructor functions](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide/Working_with_Objects).
 
 ## Resources
 
